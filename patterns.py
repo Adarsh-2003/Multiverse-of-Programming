@@ -107,3 +107,35 @@ just printing i as it denotes row count
 5
 
 """
+n=5
+for i in range(0,n):
+    #space
+    for k in range(n-i-1):
+        print(" ",end='')
+
+    #star
+    for j in range(2*i+1):
+        print("*",end="")
+
+    #space
+    for k in range(n-i-1):
+        print(" ",end='')
+    print()
+
+"""
+
+    *    
+   ***   
+  *****  
+ ******* 
+*********
+
+[space star space]
+
+[4, 1, 4]
+[3, 3, 3]
+[2, 5, 2]
+[1, 7, 1]
+[0, 9, 0]
+
+"""
