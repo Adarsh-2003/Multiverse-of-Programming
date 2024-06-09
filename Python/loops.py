@@ -1,5 +1,5 @@
 # Problem 1
-# After flipping a coin 10 times you got this result,
+# After flipping a coin 10 times you've got this result,
 # result = ["heads","tails","tails","heads","tails","heads","heads","tails","tails","tails"]
 # Using for loop figure out how many times you got heads
 
