@@ -23,4 +23,4 @@ for i in range (arr_l):
 print(arr)
     
 # try to add i+1 in the inner j loop
-# increases efficiency and comparing the first element with itself is unncessary and absurd
+# increases efficiency as comparing the first element with itself is unncessary and absurd
